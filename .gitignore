@@ -1,0 +1,6 @@
+.idea/
+_unsloth_sentencepiece_temp/
+.ipynb_checkpoints/
+lora_model/
+model/
+outputs/
